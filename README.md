@@ -1,6 +1,6 @@
 # I'm [Richard So](https://rso.vercel.app), and I love to code. 😎🤠
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=richardso21&show_icons=true" /></div>
+<a href="https://github.com/richardso21" align="center"><img src="https://github-readme-stats.vercel.app/api?username=richardso21&show_icons=true" /></a>
 
 
  - 🐝 **CS @ Georgia Tech '24**
