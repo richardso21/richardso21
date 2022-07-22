@@ -1,6 +1,6 @@
 # I'm [Richard So](https://rso.vercel.app), and I love to code. 😎🤠
 
-<a href="https://github.com/richardso21"><img src="https://github-readme-stats.vercel.app/api?username=richardso21&show_icons=true&theme=algolia" /></a>
+<a href="https://github.com/richardso21"><img src="https://github-readme-stats.vercel.app/api?username=richardso21&show_icons=true&theme=algolia&hide=prs,issues" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardso21&hide=jupyter%20notebook&layout=compact&theme=algolia" />
 
 
