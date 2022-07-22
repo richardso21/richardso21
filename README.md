@@ -1,7 +1,7 @@
 # I'm [Richard So](https://rso.vercel.app). I love to make, break, and fix code. 😎🤠
 
 <a href="https://github.com/richardso21"><img src="https://github-readme-stats.vercel.app/api?username=richardso21&show_icons=true&theme=algolia&hide=prs,issues" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardso21&hide=jupyter%20notebook&layout=compact&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardso21&exclude_repo=GTAgency-OCR&layout=compact&theme=algolia" />
 
 
  - 🐝 **CS @ Georgia Tech '24**
