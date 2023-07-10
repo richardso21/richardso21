@@ -1,4 +1,4 @@
-# I'm [Richard So](https://rso.vercel.app). I love making, breaking, and fixing things 🤠
+# I'm [Richard So](https://rso.vercel.app). I love making, breaking, and fixing code 🤠
 
 <!-- <a href="https://github.com/richardso21"><img src="https://github-readme-stats.vercel.app/api?username=richardso21&show_icons=true&theme=algolia&hide=prs,issues" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardso21&exclude_repo=GTAgency-OCR&layout=compact&theme=algolia" /> -->
